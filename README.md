@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Twitter: @tati_breitman
+- 📫 How to reach me X: @tati_breitman
 
 <!---
 tbreitman/tbreitman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
